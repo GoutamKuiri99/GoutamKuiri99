@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg)])
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg)
 
 <h1 align="center">Hi 👋, I'm Goutam kuiri</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
