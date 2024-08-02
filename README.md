@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 
-<h1 align="center">Hi 👋, I'm Goutam kuiri</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi 👋, I'm Goutam Kuiri, Turning Data into Actionable Insights</h1>
+<h3 align="center">Passionate Data Analyst: Empowering Businesses with Data Insights</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2055893583f198d3c575cd82a58ecb5577296488b723fc2dfe0bc80563165565/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35322f62372f33362f35326237333666326336653733393131386535623961333261323134333465612e676966">
 
