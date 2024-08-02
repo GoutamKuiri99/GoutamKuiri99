@@ -3,15 +3,16 @@
 <h1 align="center">Hi 👋, I'm Goutam Kuiri, Turning Data into Actionable Insights</h1>
 <h3 align="center">Passionate Data Analyst: Empowering Businesses with Data Insights</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2055893583f198d3c575cd82a58ecb5577296488b723fc2dfe0bc80563165565/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35322f62372f33362f35326237333666326336653733393131386535623961333261323134333465612e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutamkuiri99&label=Profile%20views&color=0e75b6&style=flat" alt="goutamkuiri99" /> </p>
 
-- 🌱 I’m currently learning **SQL,Data Analyst**
+- 🌱 I’m currently diving deep into **SQL, Python, Excel, Tableau, and Power BI for Data Analysis**
 
-- 📫 How to reach me **gkuiri26@gmail.com**
+- 📫 Reach out to me at **gkuiri26@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
+- 🔍 Dedicated to Extracting **Meaningful Insights** from Data
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
