@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutamkuiri99&label=Profile%20views&color=0e75b6&style=flat" alt="goutamkuiri99" /> </p>
 
-- 🌱 I’m currently diving deep into **SQL, MySQL, Sqlite3 Python, Excel, Tableau, and Power BI for Data Analysis**
+- 🌱 I’m currently diving deep into **SQL, MySQL, Sqlite3, Python, Excel, Tableau, and Power BI for Data Analysis**
 
 - 📫 Reach out to me at **gkuiri26@gmail.com**
 
