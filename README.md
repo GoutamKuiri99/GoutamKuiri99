@@ -81,4 +81,4 @@
 
 <h2>📌 Quote I live by:</h2>
 
-> “Data is the new oil. But unlike oil, it’s renewable, clean, and full of possibilities.” – Unknown
+> “Data is the new oil. But unlike oil, it’s renewable, clean, and full of possibilities.”
