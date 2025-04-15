@@ -41,12 +41,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goutamkuiri99&show_icons=true&theme=radical" alt="goutamkuiri99 stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goutamkuiri99&theme=radical" alt="goutamkuiri99 streak" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goutamkuiri99&layout=compact&theme=radical" width="48%"/>
 </p>
+
 
 ---
 
