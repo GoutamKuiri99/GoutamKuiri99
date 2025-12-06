@@ -44,7 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goutamkuiri99&layout=compact&theme=radical" width="48%"/>
 </p>
 
-
 ---
 
 <h2>🌍 Let's Connect</h2>
