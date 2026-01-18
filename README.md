@@ -15,10 +15,9 @@
 
 - 🎓 **B.Tech in Mechanical Engineering | Data Enthusiast**  
 - 💼 Currently working as a **Data Analyst at Rishabh Plast India Pvt. Ltd.**
-- 📊 Working on projects involving **Python, MySQL, SQL, Power BI, Tableau, and Advance Excel**
-- 🔍 Love solving real-world problems using **Data Analysis & Visualization**
-- 💡 Always curious to explore **business insights** hidden in data
-- 😅 Fun fact: I can clean messy datasets faster than I clean my room!
+- 📊 Working on the projects involving **Python, MySQL, SQL Server, Power BI, Tableau, and Advanced Excel**
+- 📈 Skilled in **data cleaning, EDA, SQL querying, KPI creation & interactive dashboards** across finance, operations & sales
+- 🧠 I focus on business context, not just dashboards
 
 ---
 
